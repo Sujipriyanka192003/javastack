@@ -241,6 +241,26 @@ public class Main {
 OUPUT:
 ![image](https://user-images.githubusercontent.com/123354092/224600417-a74ddf41-02dc-42a2-8464-b613c6b56aef.png)
 
+### QN 8PRINT MULTIPLICATION TABLE OF GIVEN NUMBER
+```
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args)
+    {
+        Scanner s = new Scanner(System.in);
+        System.out.print("Enter number: ");
+        int n=s.nextInt();
+        for(int i=1;i<=10;i++)
+        {
+            System.out.println(n+" * "+i+" = "+n*i);
+        }
+    }
+}
+```
+OUTPUT:
+![image](https://user-images.githubusercontent.com/123354092/224600734-774bda64-36de-4117-979b-b05c67107ceb.png)
+
+
 
 
 
