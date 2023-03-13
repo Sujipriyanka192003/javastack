@@ -77,8 +77,7 @@ OUTPUT:
    ![QN3](https://user-images.githubusercontent.com/123354092/224598171-a41ff026-5383-489b-a793-1ec4b19179c9.PNG)
    
    ### QN 4FIND AREA OF RHOMBUS
-   
-      ```
+   ```
       public class Main
 {
     public static void main(String args[])
@@ -91,8 +90,9 @@ OUTPUT:
 }
 
    ```
-  OUPUT:
-![QN4](https://user-images.githubusercontent.com/123354092/224598804-284e0534-9625-4701-bcb1-30697240cf34.PNG)
+  OUTPUT:
+  
+  ![QN4](https://user-images.githubusercontent.com/123354092/224598804-284e0534-9625-4701-bcb1-30697240cf34.PNG)
 
       
 
