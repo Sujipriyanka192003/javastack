@@ -172,6 +172,28 @@ public class Main {
 OUTPUT:
 ![image](https://user-images.githubusercontent.com/123354092/224599498-7004e9cf-daaf-45c4-b6ca-bf91ea1a8900.png)
 
+ ### QN 6 PRINT THE EVEN NUMBERS 1 TO 20
+ ```
+ import java.util.Scanner;
+public class Main {
+    public static void main(String[] args)
+    {
+            Scanner input = new Scanner(System.in);
+            int a = input.nextInt();
+            for (int i=1; i<=a; i++)
+            {
+                if (i%2==0)
+                {
+                    System.out.print(i+" ");
+                }
+            }
+        }
+    }
+ ```
+ OUPUT:
+ ![image](https://user-images.githubusercontent.com/123354092/224600039-f8936a20-8813-4150-9c69-7087ab684ba2.png)
+
+
 
       
 
