@@ -77,6 +77,7 @@ OUTPUT:
    ![QN3](https://user-images.githubusercontent.com/123354092/224598171-a41ff026-5383-489b-a793-1ec4b19179c9.PNG)
    
    ###QN 4FIND AREA OF RHOMBUS
+   
       ```
       public class Main
 {
@@ -88,9 +89,10 @@ OUTPUT:
         System.out.println("Area of Rhombus is "+Area_of_rhombus);
     }
 }
-  ```
+
+   ```
   OUPUT:
-  ![image](https://user-images.githubusercontent.com/123354092/224598511-9f28d66c-8cc9-400f-b0ee-3e7cdb708615.png)
+  ![QN4](https://user-images.githubusercontent.com/123354092/224598642-8c6b3987-3803-4a81-90c8-a8e54a5755bb.PNG)
 
       
 
