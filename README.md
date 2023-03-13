@@ -61,5 +61,21 @@ public class Main
 OUTPUT:
 ![QN 2](https://user-images.githubusercontent.com/123354092/224597040-f6f05392-7c83-45d4-a6bc-4bce08cbac7f.PNG)
 
+###CONVERT A STRING TO AN INTEGER
+   ```
+   public class Main 
+{
+    public static void main(String[] args)
+    {
+        String a="50";
+        int b=Integer.parseInt(a);
+        System.out.println("Convert a string to an integer "+b);
+}
+}
+   ```
+   OUTPUT:
+   ![QN3](https://user-images.githubusercontent.com/123354092/224598171-a41ff026-5383-489b-a793-1ec4b19179c9.PNG)
+
+
 
 
