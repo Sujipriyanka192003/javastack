@@ -192,6 +192,55 @@ public class Main {
  ```
  OUPUT:
  ![image](https://user-images.githubusercontent.com/123354092/224600039-f8936a20-8813-4150-9c69-7087ab684ba2.png)
+ 
+ ### QN 7 CREATE A SIMPLE CALCULATOR
+ ```
+ import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+
+        char operator;
+        double num1, num2, result;
+        Scanner input = new Scanner(System.in);
+        System.out.println("Choose an operator: +, -, *, or /");
+        operator = input.next().charAt(0);
+        System.out.println("Enter first number");
+        num1 = input.nextDouble();
+        System.out.println("Enter second number");
+        num2 = input.nextDouble();
+
+        switch (operator) {
+
+            case '+':
+                result = num1 + num2;
+                System.out.println(num1 + " + " + num2 + " = " + result);
+                break;
+
+            case '-':
+                result = num1 - num2;
+                System.out.println(num1 + " - " + num2 + " = " + result);
+                break;
+
+            case '*':
+                result = num1 * num2;
+                System.out.println(num1 + " * " + num2 + " = " + result);
+                break;
+
+            case '/':
+                result = num1 / num2;
+                System.out.println(num1 + " / " + num2 + " = " + result);
+                break;
+
+            default:
+                System.out.println("Invalid operator!");
+                break;
+ }
+}
+}
+```
+OUPUT:
+![image](https://user-images.githubusercontent.com/123354092/224600417-a74ddf41-02dc-42a2-8464-b613c6b56aef.png)
+
 
 
 
