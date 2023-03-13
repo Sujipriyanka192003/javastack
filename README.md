@@ -61,7 +61,7 @@ public class Main
 OUTPUT:
 ![QN 2](https://user-images.githubusercontent.com/123354092/224597040-f6f05392-7c83-45d4-a6bc-4bce08cbac7f.PNG)
 
-###CONVERT A STRING TO AN INTEGER
+###QN 3CONVERT A STRING TO AN INTEGER
    ```
    public class Main 
 {
@@ -75,6 +75,24 @@ OUTPUT:
    ```
    OUTPUT:
    ![QN3](https://user-images.githubusercontent.com/123354092/224598171-a41ff026-5383-489b-a793-1ec4b19179c9.PNG)
+   
+   ###QN 4FIND AREA OF RHOMBUS
+      ```
+      public class Main
+{
+    public static void main(String args[])
+    {
+        float a=10,b=20;
+        float Area_of_rhombus;
+        Area_of_rhombus=(a*b)/2;
+        System.out.println("Area of Rhombus is "+Area_of_rhombus);
+    }
+}
+  ```
+  OUPUT:
+  ![image](https://user-images.githubusercontent.com/123354092/224598511-9f28d66c-8cc9-400f-b0ee-3e7cdb708615.png)
+
+      
 
 
 
