@@ -92,7 +92,7 @@ OUTPUT:
 
    ```
   OUPUT:
-  ![QN4](https://user-images.githubusercontent.com/123354092/224598642-8c6b3987-3803-4a81-90c8-a8e54a5755bb.PNG)
+![QN4](https://user-images.githubusercontent.com/123354092/224598804-284e0534-9625-4701-bcb1-30697240cf34.PNG)
 
       
 
